@@ -3,7 +3,7 @@
 # workflow_dispatch:
 # permissions:
 #       id-token: write
-#       contents: read
+#       contents: read 
 
 name: Run Azure Login with OpenID Connect
 
